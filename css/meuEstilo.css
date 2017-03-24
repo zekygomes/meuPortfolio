@@ -1,0 +1,84 @@
+
+html, body{
+    /*height: 100%;*/
+}
+
+h1{
+    color: #985f0d;
+    font-size-adjust: 5;
+}
+
+main{
+    background-color: #122b40;
+    font: italic bold 12px/30px Georgia, serif;
+    color: #FFF;
+}
+
+hr {
+    background-color: #000;
+    height: 8px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+hr.barra-maior{
+    background-color: #122b40;
+    width: 97%;
+    /*margin-bottom: 5px;*/
+}
+
+#foto-principal {
+    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    width: 100%;
+}
+
+.skills{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    top: 0;
+    text-align: center;
+    text-indent: each-line;
+}
+.barras-skills {
+    width: 60%;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+#titulo-contato{
+    margin-bottom: 10px;
+}
+
+.icone-contato{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 20%;
+    display: inline-block;
+
+}
+
+.texto-contato{
+    width: 80%;
+    display: inline-block;
+    padding: 5px;
+}
+
+.glyphi-contato{
+    left: 70%;
+}
+
+@media(min-width: 768px) {
+
+    .principal-rigth{
+        width: 30%;
+        display: inline-block;
+        float: right;
+
+    }
+
+    .principal-left{
+        width: 70%;
+        display: inline-block;
+        float: left;
+    }
+}
