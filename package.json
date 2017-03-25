@@ -2,7 +2,7 @@
   "name": "meuportfolio",
   "version": "1.0.0",
   "description": "mobilefirst",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "index.js",
     "test": "echo 'Funciona'"
