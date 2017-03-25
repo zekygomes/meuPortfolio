@@ -1,0 +1,19 @@
+{
+  "name": "meuportfolio",
+  "version": "1.0.0",
+  "description": "mobilefirst",
+  "main": "index.html",
+  "scripts": {
+    "test": "fu deu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekygomes/meuPortfolio.git"
+  },
+  "author": "ezequiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zekygomes/meuPortfolio/issues"
+  },
+  "homepage": "https://github.com/zekygomes/meuPortfolio#readme"
+}
