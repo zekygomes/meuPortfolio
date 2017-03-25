@@ -4,7 +4,6 @@
   "description": "mobilefirst",
   "main": "index.html",
   "scripts": {
-    "start": "index.js",
     "test": "echo 'Funciona'"
   },
   "repository": {
