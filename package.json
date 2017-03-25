@@ -2,9 +2,9 @@
   "name": "meuportfolio",
   "version": "1.0.0",
   "description": "mobilefirst",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "test": "fu deu"
+    "test": "echo 'Funciona'"
   },
   "repository": {
     "type": "git",
