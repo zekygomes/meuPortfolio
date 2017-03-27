@@ -1,7 +1,7 @@
 
-html, body{
+/*html, body{*/
     /*height: 100%;*/
-}
+/*}*/
 
 h1{
     color: #985f0d;
@@ -27,9 +27,8 @@ hr.barra-maior{
 }
 
 #foto-principal {
-    border-bottom-right-radius: 300px;
-    border-bottom-left-radius: 300px;
-    width: 100%;
+    border-bottom-right-radius: 30%;
+    border-bottom-left-radius: 30%;
 }
 
 .skills{
